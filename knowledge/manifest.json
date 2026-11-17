@@ -1,0 +1,280 @@
+[
+  {
+    "id": "SG-POL-01",
+    "title": "Objetivo e escopo do estoque",
+    "file": "sg-pol-01-objetivo-e-escopo-do-estoque.md",
+    "keywords": [
+      "estoque",
+      "gestão",
+      "inventário",
+      "produto",
+      "cadastro",
+      "objetivo"
+    ]
+  },
+  {
+    "id": "SG-POL-02",
+    "title": "Cadastro de itens e identificação",
+    "file": "sg-pol-02-cadastro-de-itens-e-identificao.md",
+    "keywords": [
+      "cadastro",
+      "cadastrar",
+      "sku",
+      "nome",
+      "unidade",
+      "produto",
+      "duplicado"
+    ]
+  },
+  {
+    "id": "SG-POL-03",
+    "title": "Definição do estoque mínimo",
+    "file": "sg-pol-03-definio-do-estoque-mnimo.md",
+    "keywords": [
+      "estoque",
+      "minimo",
+      "limite",
+      "ponto",
+      "reposicao",
+      "calcular",
+      "alerta"
+    ]
+  },
+  {
+    "id": "SG-POL-04",
+    "title": "Entrada de materiais",
+    "file": "sg-pol-04-entrada-de-materiais.md",
+    "keywords": [
+      "entrada",
+      "reposicao",
+      "recebimento",
+      "movimento",
+      "IN",
+      "quantidade"
+    ]
+  },
+  {
+    "id": "SG-POL-05",
+    "title": "Saída de materiais",
+    "file": "sg-pol-05-sada-de-materiais.md",
+    "keywords": [
+      "saida",
+      "baixa",
+      "retirada",
+      "consumo",
+      "movimento",
+      "OUT",
+      "negativo",
+      "insuficiente"
+    ]
+  },
+  {
+    "id": "SG-POL-06",
+    "title": "Ajuste de inventário",
+    "file": "sg-pol-06-ajuste-de-inventrio.md",
+    "keywords": [
+      "ajuste",
+      "contagem",
+      "divergencia",
+      "correção",
+      "movimento",
+      "ADJUST",
+      "saldo"
+    ]
+  },
+  {
+    "id": "SG-POL-07",
+    "title": "Geração de alertas de reposição",
+    "file": "sg-pol-07-gerao-de-alertas-de-reposio.md",
+    "keywords": [
+      "alerta",
+      "aberto",
+      "OPEN",
+      "varredura",
+      "automation",
+      "check",
+      "duplicidade"
+    ]
+  },
+  {
+    "id": "SG-POL-08",
+    "title": "Resolução de alertas",
+    "file": "sg-pol-08-resoluo-de-alertas.md",
+    "keywords": [
+      "resolver",
+      "resolvido",
+      "RESOLVED",
+      "reposicao",
+      "alerta",
+      "automatico"
+    ]
+  },
+  {
+    "id": "SG-POL-09",
+    "title": "Prioridade de reposição",
+    "file": "sg-pol-09-prioridade-de-reposio.md",
+    "keywords": [
+      "prioridade",
+      "emergencia",
+      "urgente",
+      "crítico",
+      "faixa",
+      "reposição"
+    ]
+  },
+  {
+    "id": "SG-POL-10",
+    "title": "Solicitação de compras",
+    "file": "sg-pol-10-solicitao-de-compras.md",
+    "keywords": [
+      "compras",
+      "pedido",
+      "aquisição",
+      "fornecedor",
+      "cotação",
+      "aprovação"
+    ]
+  },
+  {
+    "id": "SG-POL-11",
+    "title": "Devoluções de material",
+    "file": "sg-pol-11-devolues-de-material.md",
+    "keywords": [
+      "devolução",
+      "retorno",
+      "entrada",
+      "avaria",
+      "produto"
+    ]
+  },
+  {
+    "id": "SG-POL-12",
+    "title": "Localização e unidade de medida",
+    "file": "sg-pol-12-localizao-e-unidade-de-medida.md",
+    "keywords": [
+      "localizacao",
+      "endereço",
+      "deposito",
+      "unidade",
+      "UN",
+      "CX",
+      "KG",
+      "cadastro"
+    ]
+  },
+  {
+    "id": "SG-POL-13",
+    "title": "Integridade e concorrência",
+    "file": "sg-pol-13-integridade-e-concorrncia.md",
+    "keywords": [
+      "concorrencia",
+      "transacao",
+      "simultâneo",
+      "banco",
+      "dados",
+      "integridade"
+    ]
+  },
+  {
+    "id": "SG-POL-14",
+    "title": "Auditoria de movimentações",
+    "file": "sg-pol-14-auditoria-de-movimentaes.md",
+    "keywords": [
+      "historico",
+      "auditoria",
+      "trilha",
+      "motivo",
+      "quando",
+      "registro"
+    ]
+  },
+  {
+    "id": "SG-POL-15",
+    "title": "Tratamento de erros e respostas HTTP",
+    "file": "sg-pol-15-tratamento-de-erros-e-respostas-http.md",
+    "keywords": [
+      "erro",
+      "http",
+      "400",
+      "404",
+      "409",
+      "422",
+      "503",
+      "validação",
+      "indisponibilidade"
+    ]
+  },
+  {
+    "id": "SG-POL-16",
+    "title": "Segurança da API e perfis",
+    "file": "sg-pol-16-segurana-da-api-e-perfis.md",
+    "keywords": [
+      "segurança",
+      "autorização",
+      "autenticação",
+      "token",
+      "permissão",
+      "acesso"
+    ]
+  },
+  {
+    "id": "SG-POL-17",
+    "title": "Uso responsável da IA generativa",
+    "file": "sg-pol-17-uso-responsvel-da-ia-generativa.md",
+    "keywords": [
+      "ia",
+      "generativa",
+      "help",
+      "online",
+      "agente",
+      "resposta",
+      "fonte",
+      "politica",
+      "alucinacao"
+    ]
+  },
+  {
+    "id": "SG-POL-18",
+    "title": "Incidentes e indisponibilidade",
+    "file": "sg-pol-18-incidentes-e-indisponibilidade.md",
+    "keywords": [
+      "incidente",
+      "falha",
+      "online",
+      "agente",
+      "provedor",
+      "api",
+      "timeout",
+      "contingencia",
+      "indisponivel"
+    ]
+  },
+  {
+    "id": "SG-POL-19",
+    "title": "Perguntas frequentes do operador",
+    "file": "sg-pol-19-perguntas-frequentes-do-operador.md",
+    "keywords": [
+      "perguntas",
+      "frequentes",
+      "faq",
+      "como",
+      "fazer",
+      "alerta",
+      "produto",
+      "ajuda"
+    ]
+  },
+  {
+    "id": "SG-POL-20",
+    "title": "Roteiro de conferência e encerramento diário",
+    "file": "sg-pol-20-roteiro-de-conferncia-e-encerramento-dirio.md",
+    "keywords": [
+      "rotina",
+      "diaria",
+      "conferencia",
+      "checklist",
+      "fechamento",
+      "inventario"
+    ]
+  }
+]
